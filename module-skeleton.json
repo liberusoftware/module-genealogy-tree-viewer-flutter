@@ -1,0 +1,15 @@
+{
+  "repository": "module-genealogy-tree-viewer-flutter",
+  "capabilityKey": "liberusoftware/module-genealogy-tree-viewer",
+  "presentation": "mobile-flutter",
+  "package": "module_genealogy_tree_viewer_flutter",
+  "foundation": "module-boilerplate-flutter",
+  "foundationCommit": "ff95e801183203fd3ab58993d7793fbae549151e",
+  "canonicalPlan": "projects/genealogy/nextjs/tree-viewer.md",
+  "presentationPlan": "projects/genealogy/flutter/tree-viewer.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "genealogy"
+  ]
+}
